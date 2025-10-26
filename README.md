@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project focuses on analyzing an E-commerce dataset to uncover key business insights and improve data-driven decision-making.  
 Data cleaning, transformation, and analysis were performed using **Microsoft SQL Server**, and an interactive dashboard was built in **Power BI** for visualization.
+## 📁 Data Source
+This project uses the publicly-available e-commerce dataset from Kaggle:  
+[E-Commerce Data on Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)  
+Please download the dataset from Kaggle and place the file in the `Dataset/` folder before running the analysis.
 
 ---
 
